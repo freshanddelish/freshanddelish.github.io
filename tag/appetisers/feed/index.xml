@@ -12,7 +12,7 @@
 	<atom:link href="/tag/appetisers/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Delicious and healthy gluten-free vegetarian and fish recipes</description>
-	<lastBuildDate>Sat, 24 Mar 2018 05:40:03 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 24 Mar 2018 06:34:39 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -23,7 +23,6 @@
 		<pubDate>Sat, 16 Aug 2014 04:13:05 +0000</pubDate>
 		<dc:creator><![CDATA[Kim]]></dc:creator>
 				<category><![CDATA[Recipes]]></category>
-		<category><![CDATA[Uncategorised]]></category>
 		<category><![CDATA[Appetisers]]></category>
 		<category><![CDATA[Dairy/lactose-free friendly]]></category>
 		<category><![CDATA[Nut-free friendly]]></category>
